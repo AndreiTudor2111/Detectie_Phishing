@@ -1,0 +1,9 @@
+streamlit
+pandas 
+joblib
+numpy 
+import urlparse
+re
+matplotlib
+seaborn
+scikit-learn
