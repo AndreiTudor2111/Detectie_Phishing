@@ -1,9 +1,7 @@
 streamlit
-pandas 
+pandas
 joblib
-numpy 
-import urlparse
-re
+numpy
 matplotlib
 seaborn
 scikit-learn
